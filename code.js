@@ -9,3 +9,5 @@ console.log("1.11.0 bug fix")
 console.log("1.11.0 bug fix2")
 
 console.log("this is 1.12.0 new dev")
+
+console.log("this is 1.12.0 new dev feature 2")
